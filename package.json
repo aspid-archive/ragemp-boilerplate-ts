@@ -1,5 +1,5 @@
 {
-  "name": "roleplay",
+  "name": "aspidboilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milkywayteam/roleplay.git"
+    "url": "git+https://github.com/aspidemon/ragemp-boilerplate-ts.git"
   },
-  "author": "",
+  "author": "aspid#1660",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/milkywayteam/roleplay/issues"
+    "url": "https://github.com/aspidemon/ragemp-boilerplate-ts/issues"
   },
-  "homepage": "https://github.com/milkywayteam/roleplay#readme",
+  "homepage": "https://github.com/aspidemon/ragemp-boilerplate-ts#readme",
   "dependencies": {
     "concurrently": "^7.2.1",
     "sequelize": "^6.20.1"
